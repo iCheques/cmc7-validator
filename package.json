@@ -1,7 +1,7 @@
 {
   "name": "cmc7-validator",
   "version": "1.0.3",
-  "description": "validator de CM7 em JavaScript.",
+  "description": "A deadly simple library to validate CMC7",
   "main": "bundle.js",
   "browser": "bundle.js",
   "repository": "git@github.com:iCheques/cmc7-validator.git",
