@@ -15,7 +15,7 @@ This package is provided in these module formats:
 ## TL;DR ##
 
 ```js
-const CMC7Validator = require('cmc7-validator');
+import CMC7Validator from 'cmc7-validator';
 new CMC7Validator('450445043466147665081657326823').isValid(); // returns true
 new CMC7Validator('45044504 34661476650816 57326823').isValid(); // returns true
 new CMC7Validator('Oi! Oi! Oi!').isValid(); // returns false
