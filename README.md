@@ -1,5 +1,5 @@
 # cmc7-validator
-validator de CM7 em JavaScript.
+A deadly simple library to validate CMC7.
 
 ## Installation
 Download node at [nodejs.org](http://nodejs.org) and install it, if you haven't already.
