@@ -1,5 +1,4 @@
 
-/* global describe, it */
 const CMC7Validator = require('../bundle');
 const { expect } = require('chai');
 

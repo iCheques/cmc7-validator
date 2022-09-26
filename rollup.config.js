@@ -1,10 +1,9 @@
-const buble = require('rollup-plugin-buble');
-const commonjs = require('rollup-plugin-commonjs');
-const node = require('rollup-plugin-node-resolve');
+import buble from '@rollup/plugin-buble';
+import commonjs from '@rollup/plugin-commonjs';
+import node from '@rollup/plugin-node-resolve';
 
-
-module.exports = {
-  input: './lib/cmc7-validador.js',
+export default {
+  input: './lib/cmc7-validator.js',
   plugins: [
     node({
       browser: true,

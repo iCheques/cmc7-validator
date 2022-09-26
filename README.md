@@ -1,4 +1,4 @@
-# cmc7-validador@1.0.2
+# cmc7-validador
 Validador de CM7 em JavaScript.
 
 ## Installation
