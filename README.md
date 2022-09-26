@@ -1,11 +1,11 @@
-# cmc7-validador
-Validador de CM7 em JavaScript.
+# cmc7-validator
+validator de CM7 em JavaScript.
 
 ## Installation
 Download node at [nodejs.org](http://nodejs.org) and install it, if you haven't already.
 
 ```sh
-npm install cmc7-validador --save
+npm install cmc7-validator --save
 ```
 
 This package is provided in these module formats:
