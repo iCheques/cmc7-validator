@@ -21,10 +21,5 @@ new CMC7Validator('45044504 34661476650816 57326823').isValid(); // returns true
 new CMC7Validator('Oi! Oi! Oi!').isValid(); // returns false
 ```
 
-
-## Dependencies
-
-- checkdigit
-
 ## License
 [GPLv3](https://www.gnu.org/licenses/quick-guide-gplv3.pt-br.html)
