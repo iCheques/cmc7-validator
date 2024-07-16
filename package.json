@@ -1,6 +1,6 @@
 {
   "name": "cmc7-validator",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "A deadly simple library to validate CMC7",
   "main": "bundle.js",
   "browser": "bundle.js",
@@ -12,6 +12,7 @@
     "test": "mocha tests/cmc7-validator.js",
     "clean": "rimraf bundle.js"
   },
+  "types": "./index.d.ts",
   "devDependencies": {
     "@rollup/plugin-buble": "^0.21.3",
     "@rollup/plugin-commonjs": "^22.0.2",
